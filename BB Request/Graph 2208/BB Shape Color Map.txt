@@ -1,0 +1,12 @@
+mbi in = triangle
+mbi out = triangleDown
+mbi both = star
+external in = square
+external out = diamond
+external both = hexagon
+
+GB = #977dab
+BB = orange
+SME+ = #5c70a1
+RSME = #a15c5c
+EXTERNAL = #5e5e5e
